@@ -124,16 +124,57 @@ Uses historical match data and machine learning techniques to predict match outc
 
 ## Technical Skills
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, Kotlin, Java, JavaScript, SQL |
-| **AI / ML** | Machine Learning, Computer Vision, Deep Learning, LLMs |
-| **Computer Vision** | OpenCV, MTCNN, FaceNet |
-| **Backend** | FastAPI, Flask, REST APIs |
-| **Android** | Kotlin, Jetpack Compose, MVVM, Room |
-| **Databases** | SQLite, MySQL, Room Database, Firebase |
-| **Tools** | Git, GitHub, Docker, VS Code, Android Studio |
-| **Concepts** | OOP, Data Structures, API Integration, Database Design |
+<div align="center">
+
+<table>
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
+
+<tr>
+<td align="center"><strong>Languages</strong></td>
+<td>Python, Kotlin, Java, JavaScript, SQL</td>
+</tr>
+
+<tr>
+<td align="center"><strong>AI / ML</strong></td>
+<td>Machine Learning, Computer Vision, Deep Learning, LLMs</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Computer Vision</strong></td>
+<td>OpenCV, MTCNN, FaceNet</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Backend</strong></td>
+<td>FastAPI, Flask, REST APIs</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Android</strong></td>
+<td>Kotlin, Jetpack Compose, MVVM, Room</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Databases</strong></td>
+<td>SQLite, MySQL, Room Database, Firebase</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Tools</strong></td>
+<td>Git, GitHub, Docker, VS Code, Android Studio</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Concepts</strong></td>
+<td>OOP, Data Structures, API Integration, Database Design</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -164,6 +205,8 @@ Uses historical match data and machine learning techniques to predict match outc
 ---
 
 ## Current Focus
+
+<div align="center">
 
 ```text
 Building AI-powered applications
