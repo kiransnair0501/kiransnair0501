@@ -8,7 +8,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Computer+Vision;FastAPI+%7C+Flask;Android+Development;Always+Building" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;FastAPI+%7C+Flask;Android+Development;Always+Building" alt="Typing SVG">
+
+<br><br>
+
+<a href="https://github.com/kiransnair0501">
+<img src="https://img.shields.io/github/followers/kiransnair0501?style=for-the-badge&logo=github&label=Followers&color=161B22" alt="GitHub Followers">
+</a>
+
+<a href="https://github.com/kiransnair0501?tab=repositories">
+<img src="https://img.shields.io/github/stars/kiransnair0501?style=for-the-badge&logo=github&label=Stars&color=161B22" alt="GitHub Stars">
+</a>
 
 </div>
 
@@ -16,16 +26,19 @@
 
 ## About
 
-I'm an **AI & Machine Learning Engineer** passionate about building products that solve real-world problems.
+I'm an **AI & Machine Learning Engineer** passionate about building intelligent software that solves real-world problems.
 
-My interests include:
+My primary interests include:
 
 - Machine Learning
 - Computer Vision
 - Large Language Models
-- Android Development
 - Backend Engineering
-- Scalable Systems
+- Android Development
+- API Development
+- Scalable Software Systems
+
+I enjoy working across the entire development lifecycle — from designing ML pipelines and APIs to building user-facing applications.
 
 ---
 
@@ -33,11 +46,13 @@ My interests include:
 
 ### Chronophase
 
-> Real-time facial recognition with adaptive age estimation.
+> Real-time facial recognition and age adaptation system.
 
-**Tech**
+Chronophase combines face detection, alignment and facial embeddings to perform real-time facial recognition and age-related adaptation.
 
-`Python` `FaceNet` `MTCNN` `Flask` `SQLite`
+**Tech Stack**
+
+`Python` `FaceNet` `MTCNN` `Flask` `SQLite` `OpenCV`
 
 ---
 
@@ -45,7 +60,9 @@ My interests include:
 
 > Offline-first Android application for Kabaddi performance analytics.
 
-**Tech**
+A mobile application designed to help track player performance, raids, tackles and match statistics during Kabaddi tournaments.
+
+**Tech Stack**
 
 `Kotlin` `Jetpack Compose` `Room` `MVVM` `Material 3`
 
@@ -53,11 +70,13 @@ My interests include:
 
 ### Multimodal Clinical Query Analysis
 
-> Medical image understanding using Groq Vision Models.
+> AI-powered medical image and query analysis using vision-language models.
 
-**Tech**
+A FastAPI-based application capable of processing clinical queries and visual inputs using multimodal AI models.
 
-`FastAPI` `Python` `Groq` `Tailwind`
+**Tech Stack**
+
+`Python` `FastAPI` `Groq` `Vision Models` `PIL` `Tailwind CSS`
 
 ---
 
@@ -65,9 +84,11 @@ My interests include:
 
 > Machine learning model for predicting professional Kabaddi match outcomes.
 
-**Tech**
+Uses historical match data and machine learning techniques to predict match outcomes.
 
-`Python` `Scikit-learn` `Pandas` `NumPy`
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
 ---
 
@@ -75,9 +96,44 @@ My interests include:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,fastapi,flask,tensorflow,pytorch,docker,firebase,sqlite,mysql,git,linux,vscode,opencv&perline=8" alt="Tech Stack">
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,sql&perline=5" alt="Programming Languages">
+
+<br><br>
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=5" alt="AI ML Technologies">
+
+<br><br>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,mysql,sqlite&perline=5" alt="Backend Technologies">
+
+<br><br>
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,linux,vscode&perline=6" alt="Development Tools">
 
 </div>
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, Kotlin, Java, JavaScript, SQL |
+| **AI / ML** | Machine Learning, Computer Vision, Deep Learning, LLMs |
+| **Computer Vision** | OpenCV, MTCNN, FaceNet |
+| **Backend** | FastAPI, Flask, REST APIs |
+| **Android** | Kotlin, Jetpack Compose, MVVM, Room |
+| **Databases** | SQLite, MySQL, Room Database, Firebase |
+| **Tools** | Git, GitHub, Docker, VS Code, Android Studio |
+| **Concepts** | OOP, Data Structures, API Integration, Database Design |
 
 ---
 
@@ -85,17 +141,23 @@ My interests include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiransnair0501&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiransnair0501&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransnair0501&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiransnair0501&theme=github_dark" alt="GitHub Profile Summary">
 
 </div>
 
-<br>
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kiransnair0501&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiransnair0501&theme=github_dark" alt="Repositories Per Language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiransnair0501&theme=github_dark" alt="Most Commit Language">
 
 </div>
 
@@ -106,10 +168,14 @@ My interests include:
 ```text
 Building AI-powered applications
 
-Learning scalable backend architecture
+Developing scalable backend systems
 
-Improving Android development with Jetpack Compose
+Improving Computer Vision solutions
+
+Building Android applications with Jetpack Compose
 
 Exploring LLM-powered software
+
+Strengthening Data Structures & Algorithms
 
 Seeking Software Engineering opportunities
