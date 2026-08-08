@@ -34,7 +34,7 @@
 <tr>
 <td width="65%" valign="top">
 
-## Hey there! 👋
+## Hey there!
 
 I'm **Kiran S Nair**, an Artificial Intelligence & Machine Learning Engineer focused on building practical software using AI, backend engineering and mobile technologies.
 
@@ -47,7 +47,7 @@ Currently exploring:
 <br>
 
 <a href="https://github.com/kiransnair0501?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore Projects">
 </a>
 
 </td>
@@ -64,7 +64,7 @@ Currently exploring:
 
 ---
 
-## ⚡ What I Build
+## What I Build
 
 <div align="center">
 
@@ -73,9 +73,7 @@ Currently exploring:
 
 <td width="25%" align="center">
 
-### 🤖
-
-**Artificial Intelligence**
+### Artificial Intelligence
 
 Machine Learning  
 Deep Learning  
@@ -86,9 +84,7 @@ AI Applications
 
 <td width="25%" align="center">
 
-### 👁️
-
-**Computer Vision**
+### Computer Vision
 
 Face Recognition  
 Image Processing  
@@ -99,9 +95,7 @@ FaceNet
 
 <td width="25%" align="center">
 
-### ⚙️
-
-**Backend**
+### Backend
 
 FastAPI  
 Flask  
@@ -112,9 +106,7 @@ Databases
 
 <td width="25%" align="center">
 
-### 📱
-
-**Android**
+### Android
 
 Kotlin  
 Jetpack Compose  
@@ -130,7 +122,7 @@ Room
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -140,7 +132,7 @@ Room
 
 <td width="50%" valign="top">
 
-### 🧠 Chronophase
+### Chronophase
 
 **Real-Time Facial Recognition & Age Adaptation**
 
@@ -154,14 +146,14 @@ A computer vision system combining face detection, alignment and facial embeddin
 <br>
 
 <a href="https://github.com/kiransnair0501">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏆 KabaddiArena
+### KabaddiArena
 
 **Offline-First Player Performance Analytics**
 
@@ -175,7 +167,7 @@ Android application for recording Kabaddi matches, raids, tackles and player sta
 <br>
 
 <a href="https://github.com/kiransnair0501">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project">
 </a>
 
 </td>
@@ -186,7 +178,7 @@ Android application for recording Kabaddi matches, raids, tackles and player sta
 
 <td width="50%" valign="top">
 
-### 🔬 Multimodal Clinical Query Analysis
+### Multimodal Clinical Query Analysis
 
 **Vision-Language AI Application**
 
@@ -200,14 +192,14 @@ Processes clinical queries and visual inputs using multimodal AI models through 
 <br>
 
 <a href="https://github.com/kiransnair0501">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Pro Kabaddi Match Prediction
+### Pro Kabaddi Match Prediction
 
 **Machine Learning Prediction System**
 
@@ -221,7 +213,7 @@ Machine learning model designed to predict professional Kabaddi match outcomes u
 <br>
 
 <a href="https://github.com/kiransnair0501">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View Project">
 </a>
 
 </td>
@@ -234,7 +226,7 @@ Machine learning model designed to predict professional Kabaddi match outcomes u
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -244,7 +236,7 @@ Machine learning model designed to predict professional Kabaddi match outcomes u
 
 ---
 
-## 🧩 Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -301,7 +293,7 @@ Machine learning model designed to predict professional Kabaddi match outcomes u
 
 ---
 
-## 📌 Currently
+## Currently
 
 <div align="center">
 
@@ -311,9 +303,7 @@ Machine learning model designed to predict professional Kabaddi match outcomes u
 
 <td align="center" width="25%">
 
-### 🤖
-
-**Building**
+### Building
 
 AI-powered applications
 
@@ -321,9 +311,7 @@ AI-powered applications
 
 <td align="center" width="25%">
 
-### 🧠
-
-**Learning**
+### Learning
 
 LLMs & AI Engineering
 
@@ -331,9 +319,7 @@ LLMs & AI Engineering
 
 <td align="center" width="25%">
 
-### ⚙️
-
-**Improving**
+### Improving
 
 Backend Architecture
 
@@ -341,9 +327,7 @@ Backend Architecture
 
 <td align="center" width="25%">
 
-### 💼
-
-**Looking For**
+### Looking For
 
 Software Engineering Roles
 
@@ -357,7 +341,7 @@ Software Engineering Roles
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -371,37 +355,7 @@ Software Engineering Roles
 
 ---
 
-## 🏅 GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kiransnair0501&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies">
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiransnair0501&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kiransnair0501/kiransnair0501/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-
-</div>
-
----
-
-## 💻 Development Philosophy
+## Development Philosophy
 
 <div align="center">
 
@@ -413,13 +367,13 @@ Software Engineering Roles
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Learning+something+new+every+day.;Engineering+with+curiosity.;Always+building." alt="Philosophy">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Learning+something+new+every+day.;Engineering+with+curiosity.;Always+building." alt="Development Philosophy">
 
 </div>
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
