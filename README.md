@@ -344,11 +344,6 @@ Software Engineering Roles
 ## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiransnair0501&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak">
-
-<br><br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiransnair0501&theme=github_dark" width="95%" alt="GitHub Profile Summary">
 
 </div>
